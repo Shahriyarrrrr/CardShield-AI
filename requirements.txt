@@ -1,8 +1,8 @@
+streamlit
 ultralytics
+easyocr
+opencv-python-headless
+numpy
+pillow
 torch
 torchvision
-easyocr
-opencv-python
-numpy
-pandas
-matplotlib
