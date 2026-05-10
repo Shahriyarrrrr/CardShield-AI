@@ -56,6 +56,18 @@ CardShield-AI/
 ├── requirements.txt
 └── README.md
 
+## Training Results
+
+![Training Results](screenshots/training_results.png)
+
+## Detection Output
+
+![Detection Output](screenshots/card_detection.jpg)
+
+## Fraud Analysis
+
+![Fraud Analysis](screenshots/fraud_analysis.png)
+
 # Author
 
 Shahriyar Rahman Simoon
