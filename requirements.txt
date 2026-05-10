@@ -3,6 +3,6 @@ ultralytics
 easyocr
 opencv-python-headless
 numpy
-pillow
+Pillow
 torch
 torchvision
